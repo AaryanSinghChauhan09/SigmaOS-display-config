@@ -3,7 +3,7 @@ name = "SigmaOS-display-config"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "display-config component"
+description = "display config"
 upstream = []
 
 [contract]
